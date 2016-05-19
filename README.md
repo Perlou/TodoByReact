@@ -1,5 +1,5 @@
-# gallery-by-react
-A gallery by reactjs
+# TodoByReact
+A todolist by reactjs
 
 Build:
 
